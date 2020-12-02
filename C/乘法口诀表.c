@@ -3,9 +3,9 @@
 int main ()
 {
     int i, j, product;
-    for (i = 9; i >= 1; i--)
+    for (i = 9; i >= 1; i--)    //定义9行
     {
-        for (j = 9; j >= (10 - i); j--)
+        for (j = 9; j >= (10 - i); j--)    //定义每行几列
         {
             product = i * j;
             printf("%d*%d=%d ", i, j, product);
