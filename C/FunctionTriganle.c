@@ -1,6 +1,6 @@
 #include <stdio.h>
-void print_triangle();
-void print_stars();
+void print_triangle(int i);
+void print_stars(int N);
 int main()
 {
    int N;
