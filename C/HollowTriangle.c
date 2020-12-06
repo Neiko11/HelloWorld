@@ -1,3 +1,4 @@
+//空心三角形
 #include <stdio.h>
 int main()
 {

@@ -1,3 +1,4 @@
+//乘法口诀表
 #include <stdio.h>
 #include <stdlib.h>
 int main ()

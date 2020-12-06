@@ -1,3 +1,4 @@
+//写出1到n里面的质数
 #include <stdio.h>
 int main()
 {

@@ -1,3 +1,4 @@
+//求和
 #include <stdio.h>
 int main()
 {
