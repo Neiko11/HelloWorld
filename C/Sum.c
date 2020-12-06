@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 int main()
 {
     int sum = 0;
@@ -8,6 +7,6 @@ int main()
         sum += i;
     }
     printf("%d\n", sum);
-    system("pause");
+    getchar();
     return 0;
 }
