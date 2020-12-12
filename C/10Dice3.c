@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 int main() {
-    int i, j, v[10];
+    int i, j, k, v[10];
     for (i = 1; i <= 10; i++) {
         v[i - 1] = i;
     }
